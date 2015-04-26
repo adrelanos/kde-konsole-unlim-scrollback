@@ -10,7 +10,7 @@ Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/Whonix/kde-konsole-unlim-scrollback
 Vcs-Browser: https://github.com/Whonix/kde-konsole-unlim-scrollback
 Vcs-Git: https://github.com/Whonix/kde-konsole-unlim-scrollback.git
-Standards-Version: 3.9.4
+Standards-Version: 3.9.6
 
 Package: kde-konsole-unlim-scrollback
 Architecture: all
