@@ -6,7 +6,7 @@
 DefaultProfile=Shell.profile
 
 [Favorite Profiles]
-Favorites=/home/user/.kde/share/apps/konsole/Shell.profile
+Favorites=/home/user/.local/share/konsole/Shell.profile
 
 [MainWindow]
 ToolBarsMovable=Disabled
