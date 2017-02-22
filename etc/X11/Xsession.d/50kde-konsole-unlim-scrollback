@@ -6,3 +6,8 @@ if [ -z "$XDG_CONFIG_DIRS" ]; then
    XDG_CONFIG_DIRS=/etc/xdg
 fi
 export XDG_CONFIG_DIRS=/usr/share/kde-konsole-unlim-scrollback/:$XDG_CONFIG_DIRS
+
+#if [ -z "$XDG_DATA_HOME" ]; then
+#   XDG_DATA_HOME=$HOME/.local/share
+#fi
+#export XDG_DATA_HOME=/usr/share/kde-konsole-unlim-scrollback/share:$XDG_DATA_HOME
