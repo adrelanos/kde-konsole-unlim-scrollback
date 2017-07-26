@@ -1,3 +1,15 @@
+commit ffa09180cb5f786d8f19e187646707e2f978d42e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 10 03:48:11 2017 +0000
+
+    deactivate since broken
+
+commit e2940589f99bc5f7dfdea94478bd97d735edf5c4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Feb 27 01:40:14 2017 +0000
+
+    bumped changelog version
+
 commit 29fe8b78d5b224b64edf0a5831fb562dda414140
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Feb 22 04:29:52 2017 +0000
